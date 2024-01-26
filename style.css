@@ -279,7 +279,7 @@ body {
   font-size: 25px;
 }
 /* tablets */
-@media (min-width: 481px) and (max-width: 992px) {
+@media (min-width: 300px) and (max-width: 992px) {
   * {
     margin: 0;
     padding: 0;
